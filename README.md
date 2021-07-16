@@ -6,7 +6,7 @@ Through this course, you will learn game programming, how to use a VCS, and Open
 <!-- TOC -->
 # Table of Contents
 * [What is this?](#what-is-this)
-  * [Who is this meant for?] (#who-is-this-meant-for) 
+  * [Who is this meant for?](#who-is-this-meant-for) 
   * [What will I learn?](#what-will-i-learn) 
 * [Prerequisites](#prerequisites)
 * [How to follow the tutorials](#how-to-follow-the-tutorials)
