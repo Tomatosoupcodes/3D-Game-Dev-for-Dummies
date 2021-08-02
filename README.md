@@ -24,12 +24,12 @@ Anyone can follow these, but it's mainly meant for 2 groups of people:
 1. Intermediate Java programmers who want to get into game development
 2. Programmers who use C/C++ that want to use Java
 
-In case you don't know programming, I will briefly cover programming science and Java as well
+In case you don't know programming, I will briefly cover Java as well
 as provide some resources for learning the language.
 
 ### What will I learn?
 
-Throughout all of this, you will learn basic computer programming science, game programming, Java, Git, and
+Throughout all of this, you will learn game programming, Java, Git, and
 OpenGL. Because OpenGL does not natively support Java, we will use the Lightweight Java Game Library
 (LWJGL). Time to complete everything varies, but it can take up to 6 months if you know absolutely nothing.
 
